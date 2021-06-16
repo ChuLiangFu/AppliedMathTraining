@@ -1,0 +1,2 @@
+# Algorithm
+algorithm is not only the alogirthm in computer science department. It include this from applied math perspective but also involve numerical analysis, optimization, etc. The key idea is to bridge the local and global, as we mention modeling aims to study concrete phenomena from global/universal/general understanding to local(data point), while learning is from local to global, we have to have the "algorithm" to achieve this process. 
