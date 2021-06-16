@@ -10,3 +10,78 @@ https://www.ams.org/journals/notices/202104/rnoti-p565.pdf
 
 https://www.bilibili.com/read/cv11535400
 
+
+
+### Whole Picture and System
+
+Pure Mathematics
+
+
+mapping
+
+
+Applied Mathematics:Modeling/Algorithm/Learning
+
+
+mapping
+
+
+Physical Science---Information Science
+
+
+
+
+The analog between physical science and information science is: More is different(Learning) + First Principle(Modeling)
+
+
+
+
+
+Emerge: Biological Science, Social Science
+
+
+
+### Recommend Textbook/Routine for the detailed study outside/under the big applied mathematics(holding):
+Pure mathematics: 
+Analysis
+Algebra
+Geometry&Topology
+
+
+
+Big Applied Mathematics: see also other place.
+Learning
+Algorithm
+Modeling
+
+
+
+
+
+Physical/Matter Science: science about handling matters.
+Classical Mechanics and Quantum Mechanics:
+Statistical Mechancis:
+From Mechanics to Field Theory:
+
+Thermodynamics and Kinetics:
+Order and Disorder:
+
+
+
+Information Science: science about controling information.
+Information theory & Theoretical Computer Science(I personally would like to consider they are both "Big Information Theory", and some algorithm part should come to "big applied mathemaitcs")
+Computer Organization*
+Compiler*
+Operating System*
+Computer Network*
+Computer related Algorithm and Data Structure
+Database*
+Programming(OOP, Function)
+
+
+
+
+
+
+
+
