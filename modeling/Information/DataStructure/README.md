@@ -1,1 +1,1 @@
-
+data structure can be seen as the organization of the data. So it is definitely related to the modeling: you have to take care of how data organized as a abstract structure model for how information transfer through the data. Why it is part of the big applied math? It's an abstract mapping from the data organization to an deeper abstract structure.
