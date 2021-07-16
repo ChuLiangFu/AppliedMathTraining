@@ -1,9 +1,7 @@
 
 ### Dynamic Math:
 Analysis:
-Zorich
-Stein Princeton
-Evans: PDE
+Zorich:mathematics analysis, Stein Princeton: four analysis, Evans: PDE
 
 
 Algebra:
