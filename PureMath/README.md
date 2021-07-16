@@ -7,7 +7,7 @@ Evans: PDE
 
 
 Algebra:
-Kostrikin: introduction to mathematics
+Kostrikin: introduction to algebra
 
 
 
