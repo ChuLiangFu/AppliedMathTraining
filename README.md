@@ -44,9 +44,7 @@ Emerge: Biological Science, Social Science
 
 ### Recommend Textbook/Routine for the detailed study outside/under the big applied mathematics(holding):
 Pure mathematics: 
-Analysis
-Algebra
-Geometry&Topology
+Analysis,Algebra-Geometry&Topology
 
 
 
