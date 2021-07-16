@@ -15,3 +15,13 @@ Kostrikin: introduction to algebra
 Geometry and Topology:
 Mordern Geometry series
 
+
+
+
+
+
+
+
+
+##### First-year math
+Linear dynamic math: mathematics analysis and linear algebra are all about linear math.
