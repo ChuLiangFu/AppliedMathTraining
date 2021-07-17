@@ -59,8 +59,9 @@ Modeling
 
 Physical/Matter Science: science about handling matters.
 Classical Mechanics and Quantum Mechanics:
-Statistical Mechancis:
-From Mechanics to Field Theory:
+Classical and Quantum Field Theory:
+Statistical Physics:
+
 
 Thermodynamics and Kinetics:
 Order and Disorder:
@@ -73,6 +74,7 @@ Computer Organization*
 Compiler*
 Operating System*
 Computer Network*
+Cloud Computing*
 Computer related Algorithm and Data Structure
 Database*
 Programming(OOP, Function)
