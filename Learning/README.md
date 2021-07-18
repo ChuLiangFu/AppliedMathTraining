@@ -6,5 +6,5 @@ Just like in model driven side, it can be divided into information perspective o
 
 Learning in physical science: deepMD
 
-Learning in information science: data-driven computervision, data-driven NLP.
+Learning in information science: data-driven computervision, data-driven NLP, recommendation system, etc.
 
